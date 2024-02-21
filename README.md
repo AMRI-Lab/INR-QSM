@@ -5,10 +5,10 @@ This repo contains Matlab codes for generating input data, and python codes for 
 A subject-specific unsupervised deep learning approach for QSM (quantitative susceptibility mapping) reconstruction using implicit neural representation.
 
 ## Feature   
-*  A new signal representation scheme for QSM recon which maps the susceptbility value as an implicit function of the coordinate
+*  A new signal representation scheme for QSM recon which maps the susceptbility value as an implicit function of coordinates
 *  The non-local phase effect is considered in patch-based QSM deep learning method 
-*  The proposed method is subject-specific and unsupervised, indicating that it is free of generalization problems and the requirement of a large dataset, which are two issues in the supervised deep learning methods
-*  Several acceleration strategies are adopted to accelerate the training process
+*  The proposed method is subject-specific and unsupervised, indicating that it is free of generalization problems and the requirement of a large dataset, which are two issues in supervised deep learning methods
+*  Several acceleration strategies are adopted to accelerate training process
 
 ## Setup   
 * PyTorch 1.11.0  
