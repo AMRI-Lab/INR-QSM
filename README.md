@@ -14,6 +14,6 @@ A subject-specific unsupervised deep learning approach for QSM (quantitative sus
 **(step 3)** Running `main.py` for generating INR-QSM output.
 
 ## Note
-Feel free to contact mingzhang.bme@sjtu.edu.cn for any questions.
+Feel free to contact mingzhang.bme@sjtu.edu.cn for any questions/discussions.
 
 
