@@ -9,9 +9,9 @@ A subject-specific unsupervised deep learning approach for QSM (quantitative sus
 **(4)** Several acceleration strategies are adopted to accelerate the training process.
 
 ## Usage
-**(step 1)** Generating test data `data.mat` containing `phi`, `msk`, `WG` based on files in `data_prep` folder;  
-**(step 2)** Adjusting the `config.py` by inputting correct `voxelsize`, `B0_dir`, `patch size`, and other parameters;  
-**(step 3)** Running `main.py` for generating INR-QSM output.
+**(step 1)** Generate test data `data.mat` containing `phi`, `msk`, `WG` based on files in `data_prep` folder;  
+**(step 2)** Adjust the `config.py` by inputting correct `voxelsize`, `B0_dir`, `patch size`, and other parameters;  
+**(step 3)** Runn `main.py` for generating INR-QSM output.
 
 ## Note
 Feel free to contact `zhangming430424@gmail.com` or `mingzhang.bme@sjtu.edu.cn` for any questions/discussions.
