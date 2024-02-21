@@ -8,6 +8,10 @@ A subject-specific unsupervised deep learning approach for QSM (quantitative sus
 **(3)** The proposed method is subject-specific and unsupervised, indicating that it is free of generalization problems and the requirement of a large dataset, which are two issues in the supervised deep learning methods;  
 **(4)** Several acceleration strategies are adopted to accelerate the training process.
 
+
+## Setup   
+pytorch   
+
 ## Usage
 **(step 1)** Generate test data `data.mat` containing `phi`, `msk`, `WG` based on files in `data_prep` folder;  
 **(step 2)** Adjust the `config.py` by inputting correct `voxelsize`, `B0_dir`, `patch size`, and other parameters;  
