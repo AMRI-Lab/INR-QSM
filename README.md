@@ -1,4 +1,6 @@
 # INR-QSM
+
+## Brief introduction 
 A subject-specific unsupervised deep learning approach for QSM (quantitative susceptibility mapping) reconstruction using implicit neural representation.
 ## Features   
 **(1)** A new signal representation scheme for QSM recon which maps the susceptbility value as an implicit function of the coordinate;  
