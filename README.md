@@ -11,13 +11,13 @@ A subject-specific unsupervised deep learning approach for QSM (quantitative sus
 
 
 ## Setup   
-PyTorch 1.11.0  
-Python 3.8
+* PyTorch 1.11.0  
+* Python 3.8
 
 ## Usage
-**(step 1)** Generate test data `data.mat` containing `phi`, `msk`, `WG` based on files in `data_prep` folder;  
-**(step 2)** Adjust the `config.py` by inputting correct `voxelsize`, `B0_dir`, `patch size`, and other parameters;  
-**(step 3)** Runn `main.py` for generating INR-QSM output.
+*  Generate test data `data.mat` containing `phi`, `msk`, `WG` based on files in `data_prep` folder;  
+*  Adjust the `config.py` by inputting correct `voxelsize`, `B0_dir`, `patch size`, and other parameters;  
+*  Runn `main.py` for generating INR-QSM output.
 
 ## Note
 Feel free to contact `zhangming430424@gmail.com` or `mingzhang.bme@sjtu.edu.cn` for any questions/discussions.
