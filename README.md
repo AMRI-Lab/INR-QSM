@@ -20,6 +20,7 @@ A subject-specific unsupervised deep learning approach for QSM (quantitative sus
 2.  Adjust the `config.py` by inputting correct `voxelsize`, `B0_dir`, `patch size`, and other parameters 
 
 **Training and prediction**:
+
 3.  Run `main.py` for generating INR-QSM output
 
 ## Note
