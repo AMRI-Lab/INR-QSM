@@ -10,7 +10,8 @@ A subject-specific unsupervised deep learning approach for QSM (quantitative sus
 
 
 ## Setup   
-pytorch   
+PyTorch 1.11.0
+Python 3.8
 
 ## Usage
 **(step 1)** Generate test data `data.mat` containing `phi`, `msk`, `WG` based on files in `data_prep` folder;  
