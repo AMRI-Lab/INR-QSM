@@ -15,9 +15,9 @@ A subject-specific unsupervised deep learning approach for QSM (quantitative sus
 * Python 3.8
 
 ## Usage
-*  Generate test data `data.mat` containing `phi`, `msk`, `WG` based on files in `data_prep` folder;  
-*  Adjust the `config.py` by inputting correct `voxelsize`, `B0_dir`, `patch size`, and other parameters;  
-*  Runn `main.py` for generating INR-QSM output.
+1.  Generate test data `data.mat` containing `phi`, `msk`, `WG` based on files in `data_prep` folder;  
+2.  Adjust the `config.py` by inputting correct `voxelsize`, `B0_dir`, `patch size`, and other parameters;  
+3.  Runn `main.py` for generating INR-QSM output.
 
 ## Note
 Feel free to contact `zhangming430424@gmail.com` or `mingzhang.bme@sjtu.edu.cn` for any questions/discussions.
