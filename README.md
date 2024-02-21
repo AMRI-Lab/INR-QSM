@@ -10,7 +10,7 @@ A subject-specific unsupervised deep learning approach for QSM (quantitative sus
 
 
 ## Setup   
-PyTorch 1.11.0
+PyTorch 1.11.0  
 Python 3.8
 
 ## Usage
