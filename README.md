@@ -15,11 +15,11 @@ A subject-specific unsupervised deep learning approach for QSM (quantitative sus
 * Python 3.8
 
 ## Usage
-**Data preparation**:
+**Data preparation**
 1.  Generate test data `data.mat` containing `phi`, `msk`, `WG` based on files in `data_prep` folder 
 2.  Adjust the `config.py` by inputting correct `voxelsize`, `B0_dir`, `patch size`, and other parameters 
 
-**Training and prediction**:
+**Training and prediction**
 
 3.  Run `main.py` for generating INR-QSM output
 
