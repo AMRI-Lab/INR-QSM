@@ -11,7 +11,7 @@ class Options:
         self.parser.add_argument('--start_block_epoch', type=int, default=0, help='number of epoch for starting phase compensation')
         self.parser.add_argument('--block_epoch', type=int, default=5, help='type of activation function')
         
-        self.parser.add_argument('--gpu', type=int, default=3, help='gpu ID')
+        self.parser.add_argument('--gpu', type=int, default=0, help='gpu ID')
         self.parser.add_argument('--seed', type=int, default=1, help='seed ID')
         
         # data load
