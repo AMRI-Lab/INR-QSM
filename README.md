@@ -2,7 +2,7 @@
 This repo contains Matlab codes for generating input data and python codes for INR-QSM. 
 
 ## Brief introduction 
-A subject-specific unsupervised deep learning approach for QSM (quantitative susceptibility mapping) reconstruction using implicit neural representation.
+A subject-specific unsupervised deep learning approach for QSM (quantitative susceptibility mapping) reconstruction using implicit neural representation (INR).
 
 ## Feature   
 *  A new signal representation scheme for QSM recon which maps the susceptbility value as an implicit function of coordinates
