@@ -11,6 +11,7 @@ A subject-specific unsupervised deep learning approach for QSM (quantitative sus
 *  Several acceleration strategies are adopted to accelerate training process
 
 ## Setup   
+* STISuite 3.0
 * PyTorch 1.11.0  
 * Python 3.8
 
